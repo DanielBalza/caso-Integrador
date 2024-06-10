@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="notasPolitecnicoInternacionalModelStoreContainer" CdmEntityContainer="notasPolitecnicoInternacionalEntities">
+    <EntitySetMapping Name="tecnologiaDesarrolloSoftware">
+      <EntityTypeMapping TypeName="notasPolitecnicoInternacionalModel.tecnologiaDesarrolloSoftware">
+        <MappingFragment StoreEntitySet="tecnologiaDesarrolloSoftware">
+          <ScalarProperty Name="CodigoAlumno" ColumnName="CodigoAlumno" />
+          <ScalarProperty Name="Nota_Final" ColumnName="Nota_Final" />
+          <ScalarProperty Name="Nota_tercer_corte" ColumnName="Nota_tercer_corte" />
+          <ScalarProperty Name="Nota_segundo_corte" ColumnName="Nota_segundo_corte" />
+          <ScalarProperty Name="Nota_primer_corte" ColumnName="Nota_primer_corte" />
+          <ScalarProperty Name="Nombre_Alumnos" ColumnName="Nombre_Alumnos" />
+          <ScalarProperty Name="id_Alumnos" ColumnName="id_Alumnos" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

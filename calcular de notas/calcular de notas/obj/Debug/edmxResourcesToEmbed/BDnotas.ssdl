@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="notasPolitecnicoInternacionalModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tecnologiaDesarrolloSoftware">
+    <Key>
+      <PropertyRef Name="id_Alumnos" />
+    </Key>
+    <Property Name="id_Alumnos" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre_Alumnos" Type="varchar" MaxLength="150" Nullable="false" />
+    <Property Name="Nota_primer_corte" Type="numeric" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Nota_segundo_corte" Type="numeric" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Nota_tercer_corte" Type="numeric" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Nota_Final" Type="numeric" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="CodigoAlumno" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="notasPolitecnicoInternacionalModelStoreContainer">
+    <EntitySet Name="tecnologiaDesarrolloSoftware" EntityType="Self.tecnologiaDesarrolloSoftware" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

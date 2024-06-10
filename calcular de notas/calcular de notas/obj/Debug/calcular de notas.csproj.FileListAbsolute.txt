@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\calcular de notas\calcular de notas\bin\Debug\calcular de notas.exe.config
+C:\Users\danie\source\repos\calcular de notas\calcular de notas\bin\Debug\calcular de notas.exe
+C:\Users\danie\source\repos\calcular de notas\calcular de notas\bin\Debug\calcular de notas.pdb
+C:\Users\danie\source\repos\calcular de notas\calcular de notas\bin\Debug\EntityFramework.dll
+C:\Users\danie\source\repos\calcular de notas\calcular de notas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danie\source\repos\calcular de notas\calcular de notas\bin\Debug\EntityFramework.xml
+C:\Users\danie\source\repos\calcular de notas\calcular de notas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danie\source\repos\calcular de notas\calcular de notas\obj\Debug\calcular de notas.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\calcular de notas\calcular de notas\obj\Debug\calcular_de_notas.Form1.resources
+C:\Users\danie\source\repos\calcular de notas\calcular de notas\obj\Debug\calcular_de_notas.Properties.Resources.resources
+C:\Users\danie\source\repos\calcular de notas\calcular de notas\obj\Debug\calcular de notas.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\calcular de notas\calcular de notas\obj\Debug\calcular de notas.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\calcular de notas\calcular de notas\obj\Debug\calcular.68ED55D8.Up2Date
+C:\Users\danie\source\repos\calcular de notas\calcular de notas\obj\Debug\calcular de notas.exe
+C:\Users\danie\source\repos\calcular de notas\calcular de notas\obj\Debug\calcular de notas.pdb
